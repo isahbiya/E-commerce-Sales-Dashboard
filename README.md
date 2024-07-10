@@ -1,4 +1,4 @@
-# HRAnalytics
+# Sales Analytics
 This comprehensive sales dashboard provides a detailed overview of key performance metrics for an e-commerce business. It includes visualizations and data insights to help monitor and analyze sales performance across various dimensions.
 The main features of the dashboard are:
 
